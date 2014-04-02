@@ -1,0 +1,19 @@
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\bin\WebApplication4.xml
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.Resources.resources
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.xml
+C:\Users\barry\Documents\Visual Studio 2010\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Share\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Share\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Share\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Share\WebApplication4\WebApplication4\bin\WebApplication4.xml
+C:\Share\WebApplication4\WebApplication4\obj\Debug\WebApplication4.Resources.resources
+C:\Share\WebApplication4\WebApplication4\obj\Debug\ASP sec Demo.vbproj.GenerateResource.Cache
+C:\Share\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Share\WebApplication4\WebApplication4\obj\Debug\WebApplication4.xml
+C:\Share\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
